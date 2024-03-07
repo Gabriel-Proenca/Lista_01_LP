@@ -1,0 +1,5 @@
+num1 = float(input("\nDigite o primeiro número: "))
+num2 = float(input("\nDigite o segundo número: "))
+num3 = float(input("\nDigite o terceiro número: "))
+soma = round(num1 + num2 + num3 , 2)
+print("\nA soma dos três números é:", soma)
