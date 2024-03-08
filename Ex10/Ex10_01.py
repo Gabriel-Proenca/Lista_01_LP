@@ -1,4 +1,3 @@
-# Função para calcular o número de notas
 def calc_notas(valor):
     notas_100 = valor //100             # calcula primeiro as notas de 100
     valor %= 100                        # para de acordo com o resultado atribuir
